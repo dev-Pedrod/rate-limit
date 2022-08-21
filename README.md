@@ -1,8 +1,7 @@
-<img align="right" alt="bucket4j example" src="https://user-images.githubusercontent.com/86006066/185798735-23477ab1-f318-4dc9-a4b1-132c92db7c72.png">
 
-# Overview
-Back-end Developed in Java and Spring Boot for Rate limit <br/> 
-example with Bucket4j.
+# Overview <img align="right" alt="bucket4j example" src="https://user-images.githubusercontent.com/86006066/185798735-23477ab1-f318-4dc9-a4b1-132c92db7c72.png">
+
+Back-end Developed in Java and Spring Boot for Rate limit example with Bucket4j.
 
 ## Technologies
 
